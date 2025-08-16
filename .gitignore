@@ -1,0 +1,16 @@
+# Ignore large video files and binaries
+outputs/Video/*.mp4
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+
+# Build directories
+build/
+dist/
+
+# IDE settings
+.vscode/
