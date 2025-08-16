@@ -14,9 +14,9 @@
 
 ### Video Demo
 
-<video src="outputs/Video/My_Kind_of_Woman_ascii_art.mp4" controls loop width="100%"></video>
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1RPuQi3l0sIhXPNrfwNgFWneqjMGc2mMQ/view?usp=sharing)
 
-> Tip: If the video does not autoplay on GitHub, download it or open it in a new tab.
+> Tip: If the link doesn’t preview in your browser, click the ⋯ menu → “Open in new window” or download it locally.
 
 ---
 
