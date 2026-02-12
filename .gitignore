@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+ascii_engine
+ascii_engine.exe
+
+# Generated outputs / local assets
+outputs/
+inputs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*Zone.Identifier*
